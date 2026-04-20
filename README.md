@@ -30,12 +30,6 @@ It is especially useful for:
 | Serguey Braguinsky et al. | *Acquisitions, Productivity, and Profitability* | *American Economic Review* | 2015 | [Open](https://doi.org/10.3886/E112974V1) |
 | Matthew Backus, Christopher Conlon, Michael Sinkinson | *Common Ownership in America: 1980–2017* | *American Economic Journal: Microeconomics* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/120083/version/V1/view) |
 
----
-
-## 📘 Field Journal: Journal of Industrial Economics
-
-| Authors | Paper | Year | Package |
-|--------|-------|------|---------|
 
 ---
 
