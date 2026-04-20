@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Antitrust Replication Packages</h1>
   <p align="center">
-    A curated collection of replication code and datasets for papers in antitrust and industrial organization.
+    A curated collection of replication code and datasets for papers in antitrust.
   </p>
 </p>
 
