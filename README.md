@@ -39,5 +39,5 @@ It is especially useful for:
 
 ## Additional Information
 
-Our private repository contains additional code and datasets from research papers related to **antitrust** and other conference topics.  
-Please complete the conference access form to request entry.
+Our private repository contains additional code and datasets from research papers related to **antitrust**.  
+Please complete the access form to request entry and contribute.
