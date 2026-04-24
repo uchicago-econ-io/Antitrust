@@ -24,6 +24,7 @@ It is especially useful for:
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
+| Lars-Hendrik Röller, Frode Steen | *On the Workings of a Cartel: Evidence from the Norwegian Cement Industry* | *American Economic Review* | 2006 | [Open](https://doi.org/10.3886/E116086V1) |
 | John Asker | *A Study of the Internal Organization of a Bidding Cartel* | *American Economic Review* | 2010 | [Open](https://doi.org/10.3886/E112356V1) |
 | Jean-François Houde | *Spatial Differentiation and Vertical Mergers in Retail Markets for Gasoline* | *American Economic Review* | 2012 | [Open](https://doi.org/10.3886/E231348V1) |
 | Jason Allen, Robert Clark, Jean-François Houde | *The Effect of Mergers in Search Markets: Evidence from the Canadian Mortgage Industry* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E112701V1) |
