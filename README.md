@@ -21,7 +21,6 @@ It is especially useful for:
 
 ## 📦 Replication Packages 
 
-
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Lars-Hendrik Röller, Frode Steen | *On the Workings of a Cartel: Evidence from the Norwegian Cement Industry* | *American Economic Review* | 2006 | [Open](https://doi.org/10.3886/E116086V1) |
@@ -36,6 +35,7 @@ It is especially useful for:
 | Paul J. Eliason, Benjamin Heebsh, Ryan C. McDevitt, James W. Roberts | *How Acquisitions Affect Firm Behavior and Performance: Evidence from the Dialysis Industry* | *The Quarterly Journal of Economics* | 2020 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RPOREE) |
 | Joel M. David | *The Aggregate Implications of Mergers and Acquisitions* | *The Review of Economic Studies* | 2021 | [Open](https://dx.doi.org/10.5281/zenodo.4066885) |
 | Matthew Backus, Christopher Conlon, Michael Sinkinson | *Common Ownership in America: 1980–2017* | *American Economic Journal: Microeconomics* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/120083/version/V1/view) |
+| Nathan H. Miller, Gloria Sheu, Matthew C. Weinberg | *Oligopolistic Price Leadership and Mergers: The United States Beer Industry* | *American Economic Review* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/140341/version/V2/view) |
 
 
 
