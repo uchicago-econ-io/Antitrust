@@ -11,12 +11,6 @@
 
 This repository is meant to make replication work in antitrust more accessible by providing a centralized collection of datasets and code.
 
-It is especially useful for:
-
-- researchers  
-- students working on industrial organization and competition policy  
-- instructors building replication-based coursework  
-
 ---
 
 ## 📚 Additional Replication Packages
