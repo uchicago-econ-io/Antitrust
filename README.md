@@ -46,6 +46,11 @@ This repository is meant to make replication work in antitrust more accessible b
 | John Manuel Barrios, Thomas Wollmann | *A New Era of Midnight Mergers: Antitrust Risk and Investor Disclosures* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://doi.org/10.3886/E193241V1) |
 | Peter Caradonna, Nathan H. Miller, Gloria Sheu | *Mergers, Entry, and Consumer Welfare* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E206681V1) |
 
+## Other
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Anna Rita Bennato, Stephen Davies, Franco Mariuzzo, Peter Ormosi | *Mergers and innovation: Evidence from the hard disk drive market* | *International Journal of Industrial Organization* | 2021 | [Open](https://github.com/PeterOrmosi/hdd_innovation) |
 
 ---
 
