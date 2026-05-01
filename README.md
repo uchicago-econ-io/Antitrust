@@ -53,6 +53,8 @@ This repository is meant to make replication work in antitrust more accessible b
 | Anna Rita Bennato, Stephen Davies, Franco Mariuzzo, Peter Ormosi | *Mergers and innovation: Evidence from the hard disk drive market* | *International Journal of Industrial Organization* | 2021 | [Open](https://github.com/PeterOrmosi/hdd_innovation) |
 | Paul S. Koh | *Market definition: A sensitivity analysis* | *International Journal of Industrial Organization* | 2025 | [Open](https://doi.org/10.5281/zenodo.16809457) |
 | Klaus Gugler, Florian Szücs, Ulrich Wohak | *Start-up acquisitions, venture capital and innovation: A comparative study of Google, Apple, Facebook, Amazon and Microsoft* | *International Journal of Industrial Organization* | 2025 | [Open](https://zenodo.org/records/14793991) |
+| Xulia González, María J. Moral | *Effects of antitrust prosecution on retail fuel prices* | *International Journal of Industrial Organization* | 2019 | [Open](https://data.mendeley.com/datasets/mf9rwcs6k2/1) |
+
 
 ---
 
