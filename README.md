@@ -29,6 +29,18 @@ This repository is meant to make replication work in antitrust more accessible b
 | Joel M. David | *The Aggregate Implications of Mergers and Acquisitions* | *The Review of Economic Studies* | 2021 | [Open](https://dx.doi.org/10.5281/zenodo.4066885) |
 | Nathan H. Miller, Gloria Sheu, Matthew C. Weinberg | *Oligopolistic Price Leadership and Mergers: The United States Beer Industry* | *American Economic Review* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/140341/version/V2/view) |
 
+
+## Review of Economics and Statistics
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Jacob A. Bikker; Sherrill Shaffer; Laura Spierdijk | *Assessing Competition with the Panzar-Rosse Model: The Role of Scale, Costs, and Equilibrium* | Review of Economics and Statistics | 2012 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BYCAFE) |
+| Volodymyr Bilotkach; Kai Hüschelrath | *Airline Alliances, Antitrust Immunity, and Market Foreclosure* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/22853) |
+| Paolo Buccirossi; Lorenzo Ciari; Tomaso Duso; Giancarlo Spagnolo; Cristiana Vitale | *Competition Policy and Productivity Growth: An Empirical Assessment* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/25293) |
+| Matthew C. Weinberg; Daniel Hosken | *Evidence on the Accuracy of Merger Simulations* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/24481) |
+| Li Gan; Manuel A. Hernandez | *Making Friends with Your Neighbors? Agglomeration and Tacit Collusion in The Lodging Industry* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X5ZCTK) |
+
+
 ## American Economic Journal: Microeconomics
 
 | Authors | Paper | Journal | Year | Package |
@@ -51,9 +63,9 @@ This repository is meant to make replication work in antitrust more accessible b
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Anna Rita Bennato, Stephen Davies, Franco Mariuzzo, Peter Ormosi | *Mergers and innovation: Evidence from the hard disk drive market* | *International Journal of Industrial Organization* | 2021 | [Open](https://github.com/PeterOrmosi/hdd_innovation) |
+| Xulia González, María J. Moral | *Effects of antitrust prosecution on retail fuel prices* | *International Journal of Industrial Organization* | 2019 | [Open](https://data.mendeley.com/datasets/mf9rwcs6k2/1) |
 | Paul S. Koh | *Market definition: A sensitivity analysis* | *International Journal of Industrial Organization* | 2025 | [Open](https://doi.org/10.5281/zenodo.16809457) |
 | Klaus Gugler, Florian Szücs, Ulrich Wohak | *Start-up acquisitions, venture capital and innovation: A comparative study of Google, Apple, Facebook, Amazon and Microsoft* | *International Journal of Industrial Organization* | 2025 | [Open](https://zenodo.org/records/14793991) |
-| Xulia González, María J. Moral | *Effects of antitrust prosecution on retail fuel prices* | *International Journal of Industrial Organization* | 2019 | [Open](https://data.mendeley.com/datasets/mf9rwcs6k2/1) |
 
 
 ---
